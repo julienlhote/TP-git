@@ -1,9 +1,8 @@
 ###Application.bash-2019-LHOTELLIER###
 
-version = "2.0.0"
-build_hour = "11H00"
 
-echo "Build ${build_hour}"
-echo "version ${version}"
+echo "Copyright Company - IIA LAVAL"
+echo "Build : 10:00"
+echo "version 1.2.0-b"
 
 
